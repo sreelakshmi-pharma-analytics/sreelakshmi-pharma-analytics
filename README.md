@@ -8,7 +8,7 @@ Welcome to my analytics portfolio focused on pharmaceutical quality control and 
 
 ### 1 Pharmaceutical QC Analytics – Root Cause Analysis of OOS Trends
 
-![OOS Dashboard](https://github.com/sreelakshmi-pharma-analytics/Pharma-QC-Analytics-Dashboard/blob/main/Pharma_QC_OOS_Analytics_Dashboard_preview.png.png?raw=true)
+![OOS Dashboard](https://github.com/sreelakshmi-pharma-analytics/Pharma-QC-Analytics-Dashboard/blob/main/Pharma_QC_OOS_Analytics_Dashboard_preview.png?raw=true)
 
 An Excel analytics dashboard analyzing Out-of-Specification (OOS) trends to identify root causes across analytical parameters, products, and analysts.
 
@@ -17,20 +17,21 @@ An Excel analytics dashboard analyzing Out-of-Specification (OOS) trends to iden
 ---
 
 ### 2 Pharma QC Data Integrity Risk Assessment (ALCOA+)
-![Data Integrity Dashboard](Pharma_QC_Data_Integrity_Dashboard_Preview.png)
+
+![Data Integrity Dashboard](https://github.com/sreelakshmi-pharma-analytics/Pharma-QC-Data-Integrity-Risk-Assessment/blob/main/Pharma_QC_Data_Integrity_Dashboard_Preview.png?raw=true)
 
 Developed an analytics dashboard identifying potential data integrity risks in QC laboratory operations and supporting ALCOA+ compliance monitoring.
 
- [View Full Project Repository](https://github.com/sreelakshmi-pharma-analytics/Pharma-QC-Data-Integrity-Risk-Assessment.git)
+ [View Full Project Repository](https://github.com/sreelakshmi-pharma-analytics/Pharma-QC-Data-Integrity-Risk-Assessment)
 
 ---
 
 ### 3 Digital Transformation of QC Laboratory through LIMS Implementation
-![LIMS Dashboard](Pharma_QC_LIMS_Dashboard_Preview.png)
+![LIMS Dashboard](https://github.com/sreelakshmi-pharma-analytics/Pharma-QC-LIMS-Digital-Transformation/blob/main/Pharma_QC_LIMS_Dashboard_Preview.png?raw=true)
 
 A consulting style case study demonstrating how Laboratory Information Management Systems (LIMS) improve QC laboratory efficiency, traceability, and regulatory compliance.
 
- [View Full Project Repository](https://github.com/sreelakshmi-pharma-analytics/Pharma-QC-LIMS-Digital-Transformation.git)
+ [View Full Project Repository](https://github.com/sreelakshmi-pharma-analytics/Pharma-QC-LIMS-Digital-Transformation)
 
 ---
 
