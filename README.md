@@ -1,16 +1,26 @@
-## Hi there 👋
+# Pharma Analytics Portfolio
 
-<!--
-**sreelakshmi-pharma-analytics/sreelakshmi-pharma-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my analytics portfolio focused on pharmaceutical quality control and laboratory digital transformation.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Digital Transformation of QC Laboratory through LIMS Implementation
+A case study demonstrating how Laboratory Information Management Systems (LIMS) improve QC laboratory efficiency, traceability, and regulatory compliance.
+
+### Pharma QC Data Integrity Risk Assessment (ALCOA+)
+An analytics dashboard identifying potential data integrity risks in QC laboratory operations and supporting ALCOA+ compliance monitoring.
+
+### Pharmaceutical QC Analytics – Root Cause Analysis of OOS Trends
+An Excel analytics dashboard analyzing Out-of-Specification (OOS) trends to identify root causes across analytical parameters, products, and analysts.
+
+## Tools Used
+
+• Microsoft Excel  
+• Data Analytics  
+• Pharmaceutical Quality Control  
+• Dashboard Development  
+• Root Cause Analysis
+
+## Repository Links
+
+You can explore the full projects in the repositories below.
