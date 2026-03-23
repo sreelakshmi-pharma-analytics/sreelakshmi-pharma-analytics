@@ -7,7 +7,7 @@ Welcome to my analytics portfolio focused on pharmaceutical quality control and 
 ## Featured Projects
 
 ### 1 Pharmaceutical QC Analytics – Root Cause Analysis of OOS Trends
-![OOS Dashboard](Pharma_QC_OOS_Analytics_Dashboard_preview.png.png)
+ ![OOS Dashboard](Pharma_QC_OOS_Analytics_Dashboard_preview.png.png)
 
 An Excel analytics dashboard analyzing Out-of-Specification (OOS) trends to identify root causes across analytical parameters, products, and analysts.
 
@@ -35,12 +35,12 @@ A consulting style case study demonstrating how Laboratory Information Managemen
 
 ## Tools & Skills
 
-• Microsoft Excel  
-• Data Analytics  
-• Pharmaceutical Quality Control  
-• Dashboard Development  
-• Root Cause Analysis
-• Data Integrity & ALCOA+ Compliance
+- Microsoft Excel  
+- Data Analytics  
+- Pharmaceutical Quality Control  
+- Dashboard Development  
+- Root Cause Analysis
+- Data Integrity & ALCOA+ Compliance
 
 ---
 
