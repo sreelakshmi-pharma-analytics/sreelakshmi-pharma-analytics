@@ -8,7 +8,7 @@ Welcome to my analytics portfolio focused on pharmaceutical quality control and 
 
 ### 1 Pharmaceutical QC Analytics – Root Cause Analysis of OOS Trends
 
-![OOS Dashboard](Pharma_QC_OOS_Analytics_Dashboard_preview.png.png)
+![OOS Dashboard](https://github.com/sreelakshmi-pharma-analytics/Pharma-QC-Analytics-Dashboard/blob/main/Pharma_QC_OOS_Analytics_Dashboard_preview.png.png?raw=true)
 
 An Excel analytics dashboard analyzing Out-of-Specification (OOS) trends to identify root causes across analytical parameters, products, and analysts.
 
