@@ -40,7 +40,7 @@ A consulting style case study demonstrating how Laboratory Information Managemen
 • Pharmaceutical Quality Control  
 • Dashboard Development  
 • Root Cause Analysis
-- Data Integrity & ALCOA+ Compliance
+• Data Integrity & ALCOA+ Compliance
 
 ---
 
